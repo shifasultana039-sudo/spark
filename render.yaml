@@ -12,3 +12,9 @@ services:
         value: sqlite:///./reliefchain.db
       - key: STORAGE_PATH
         value: ./storage/uploads
+      - key: MST_RPC_URL
+        value: https://testnetrpc.mstblockchain.com
+      - key: MST_CONTRACT_ADDRESS
+        value: 0x6c630C62D7D12CDf8a2BfEaa7995F1ce2D3937D2
+      - key: MST_EXPLORER_URL
+        value: https://mstscan.com

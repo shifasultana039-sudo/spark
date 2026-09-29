@@ -10,5 +10,9 @@
     "start": "npm --prefix frontend run dev",
     "install:frontend": "npm --prefix frontend install",
     "postinstall": "npm --prefix frontend install"
+  },
+  "devDependencies": {
+    "ethers": "^6.17.0",
+    "solc": "^0.8.37"
   }
 }

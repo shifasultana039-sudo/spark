@@ -14,9 +14,9 @@ STORAGE_DIR = BASE_DIR / "storage" / "uploads"
 STORAGE_DIR.mkdir(parents=True, exist_ok=True)
 
 # MST Blockchain Testnet Parameters
-MST_RPC_URL = os.getenv("MST_RPC_URL", "https://rpc.testnet.mstblockchain.com")
+MST_RPC_URL = os.getenv("MST_RPC_URL", "https://testnetrpc.mstblockchain.com")
 MST_CHAIN_ID = int(os.getenv("MST_CHAIN_ID", "88888"))
-MST_CONTRACT_ADDRESS = os.getenv("MST_CONTRACT_ADDRESS", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+MST_CONTRACT_ADDRESS = os.getenv("MST_CONTRACT_ADDRESS", "0x6c630C62D7D12CDf8a2BfEaa7995F1ce2D3937D2")
 MST_PRIVATE_KEY = os.getenv("MST_PRIVATE_KEY", "")
 MST_EXPLORER_URL = os.getenv("MST_EXPLORER_URL", "https://mstscan.com")
 MST_FAUCET_URL = os.getenv("MST_FAUCET_URL", "https://faucet.masterstroke.academy")
