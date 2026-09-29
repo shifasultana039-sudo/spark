@@ -1,6 +1,7 @@
 # ⚡ ReliefChain AI (SPARK)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://spark-lbi8.onrender.com)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshifasultana039-sudo%2Fspark)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=shifasultana039-sudo%2Fspark)
 [![Smart Contract](https://img.shields.io/badge/MST%20Contract-0x84AB...9d14-blueviolet?style=for-the-badge)](https://mstscan.com/address/0x84AB4dC72536D55aDa9617b673dd33AC9d709d14)
 [![API Docs](https://img.shields.io/badge/API%20Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://spark-lbi8.onrender.com/docs)

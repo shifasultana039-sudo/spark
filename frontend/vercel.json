@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://spark-lbi8.onrender.com/api/$1"
+    },
+    {
+      "source": "/blockchain/(.*)",
+      "destination": "https://spark-lbi8.onrender.com/blockchain/$1"
+    },
+    {
+      "source": "/health",
+      "destination": "https://spark-lbi8.onrender.com/health"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
