@@ -1,0 +1,13 @@
+{
+  "name": "reliefchain-ai-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ReliefChain AI workspace runner",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run dev",
+    "install:frontend": "npm --prefix frontend install",
+    "postinstall": "npm --prefix frontend install"
+  }
+}
