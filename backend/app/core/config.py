@@ -45,7 +45,7 @@ def get_database_engine(url: str = None) -> str:
     return "sqlite"
 
 # MST Blockchain Testnet Parameters
-MST_RPC_URL = os.getenv("MST_RPC_URL", "https://rpc.testnet.mstblockchain.com")
+MST_RPC_URL = os.getenv("MST_RPC_URL", "https://testnetrpc.mstblockchain.com")
 MST_CHAIN_ID = int(os.getenv("MST_CHAIN_ID", "88888"))
 MST_CONTRACT_ADDRESS = os.getenv("MST_CONTRACT_ADDRESS", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
 MST_PRIVATE_KEY = os.getenv("MST_PRIVATE_KEY", "")
