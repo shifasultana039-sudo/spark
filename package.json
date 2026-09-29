@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "ReliefChain AI workspace runner",
+  "homepage": "https://spark-lbi8.onrender.com",
   "scripts": {
     "dev": "npm --prefix frontend run dev",
     "build": "npm --prefix frontend run build",
