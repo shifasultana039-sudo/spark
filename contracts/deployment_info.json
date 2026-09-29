@@ -1,10 +1,10 @@
 {
-  "contractAddress": "0x6c630C62D7D12CDf8a2BfEaa7995F1ce2D3937D2",
-  "transactionHash": "0x870ad16e18a8ea26c805bf5daf1bf426ddd93d3d18c4af082cd36e4a0f364a28",
+  "contractAddress": "0x84AB4dC72536D55aDa9617b673dd33AC9d709d14",
+  "transactionHash": "0x8df90e48f3c2fd005933169c150fdb934d97d35bc6a8deabc9bd160ad546e223",
   "deployer": "0x5b42E174C7256A0DA501032e5E589E531219A8df",
   "network": "MST Testnet",
   "rpcUrl": "https://testnetrpc.mstblockchain.com",
-  "timestamp": "2026-09-29T10:14:14.010Z",
+  "timestamp": "2026-09-29T10:28:13.491Z",
   "abi": [
     {
       "inputs": [],

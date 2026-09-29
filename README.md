@@ -2,7 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://spark-lbi8.onrender.com)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=shifasultana039-sudo%2Fspark)
-[![Smart Contract](https://img.shields.io/badge/MST%20Contract-0x6c63...37D2-blueviolet?style=for-the-badge)](https://mstscan.com/address/0x6c630C62D7D12CDf8a2BfEaa7995F1ce2D3937D2)
+[![Smart Contract](https://img.shields.io/badge/MST%20Contract-0x84AB...9d14-blueviolet?style=for-the-badge)](https://mstscan.com/address/0x84AB4dC72536D55aDa9617b673dd33AC9d709d14)
 [![API Docs](https://img.shields.io/badge/API%20Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://spark-lbi8.onrender.com/docs)
 [![System Health](https://img.shields.io/badge/System-Healthy-success?style=for-the-badge)](https://spark-lbi8.onrender.com/health)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
@@ -15,7 +15,7 @@
 ## 🌐 Live URLs
 
 - **Production Web Application:** [https://spark-lbi8.onrender.com](https://spark-lbi8.onrender.com)
-- **Deployed Smart Contract:** [https://mstscan.com/address/0x6c630C62D7D12CDf8a2BfEaa7995F1ce2D3937D2](https://mstscan.com/address/0x6c630C62D7D12CDf8a2BfEaa7995F1ce2D3937D2)
+- **Deployed Smart Contract:** [https://mstscan.com/address/0x84AB4dC72536D55aDa9617b673dd33AC9d709d14](https://mstscan.com/address/0x84AB4dC72536D55aDa9617b673dd33AC9d709d14)
 - **Interactive API Documentation:** [https://spark-lbi8.onrender.com/docs](https://spark-lbi8.onrender.com/docs)
 - **API Health Diagnostic:** [https://spark-lbi8.onrender.com/health](https://spark-lbi8.onrender.com/health)
 
