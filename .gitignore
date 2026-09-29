@@ -48,6 +48,10 @@ backend/storage/uploads/*
 backend/storage/private/*
 !backend/storage/private/.gitkeep
 
+# Local push helper
+push_to_github.bat
+*.bat
+
 # IDEs and OS files
 .vscode/
 .idea/
